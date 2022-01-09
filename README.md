@@ -2,7 +2,7 @@
 
 A simple to-do application developed using ReactJS and TypeScript for study purposes.
 
-<img src="public/todo-app.gif" alt="todo-app" style="zoom:50%;" />
+<img src="public/todo-app.gif" alt="todo-app" style="zoom:25%;" />
 
 The app has the ability to:
 
